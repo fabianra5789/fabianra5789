@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 👨‍💻 All of my projects are available at [https://happy-mclean-69df89.netlify.app/](https://happy-mclean-69df89.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **React, Vue or something about javascript**
 
